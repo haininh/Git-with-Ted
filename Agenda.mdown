@@ -1,0 +1,4 @@
+# Should: make frequent commands
+# Sync: Getting git clone hyperlink to repository 
+# ls -a: .git (where git keeps track of changes)
+# Git Status
